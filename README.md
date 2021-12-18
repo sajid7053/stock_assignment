@@ -1,3 +1,10 @@
+# To run the application
+1. Clone the git repo
+2. run npm install in project directory
+3. run npm start
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
